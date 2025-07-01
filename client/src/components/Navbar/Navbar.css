@@ -14,14 +14,30 @@
     color: white;
   }
 
+<<<<<<< HEAD
   .mobile-logo {
+=======
+  .mobile-menu {
+>>>>>>> 9a1669599858e57b3f605c5975ceaef872126e2d
     display: none;
     font-weight: bold;
     font-size: 20px;
     text-decoration: none;
     color: white;
+<<<<<<< HEAD
   }
   
+=======
+    z-index: 1000;
+  }
+  
+  .menu-icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+  }
+
+>>>>>>> 9a1669599858e57b3f605c5975ceaef872126e2d
   .nav-links {
     display: flex;
     align-items: center;
@@ -53,7 +69,11 @@
       display: none;
     }
 
+<<<<<<< HEAD
     .mobile-logo {
+=======
+    .mobile-menu {
+>>>>>>> 9a1669599858e57b3f605c5975ceaef872126e2d
       display: block;
     }
     
