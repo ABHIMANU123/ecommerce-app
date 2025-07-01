@@ -14,20 +14,20 @@
     color: white;
   }
 
-<<<<<<< HEAD
+ HEAD
   .mobile-logo {
-=======
+
   .mobile-menu {
->>>>>>> 9a1669599858e57b3f605c5975ceaef872126e2d
+ 9a1669599858e57b3f605c5975ceaef872126e2d
     display: none;
     font-weight: bold;
     font-size: 20px;
     text-decoration: none;
     color: white;
-<<<<<<< HEAD
+ HEAD
   }
   
-=======
+
     z-index: 1000;
   }
   
@@ -37,7 +37,7 @@
     cursor: pointer;
   }
 
->>>>>>> 9a1669599858e57b3f605c5975ceaef872126e2d
+ 9a1669599858e57b3f605c5975ceaef872126e2d
   .nav-links {
     display: flex;
     align-items: center;
@@ -69,11 +69,11 @@
       display: none;
     }
 
-<<<<<<< HEAD
+ HEAD
     .mobile-logo {
-=======
+
     .mobile-menu {
->>>>>>> 9a1669599858e57b3f605c5975ceaef872126e2d
+9a1669599858e57b3f605c5975ceaef872126e2d
       display: block;
     }
     
